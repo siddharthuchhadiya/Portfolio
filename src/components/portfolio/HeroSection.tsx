@@ -74,9 +74,9 @@ const HeroSection = () => {
               </div>
 
               {/* CTA Button */}
-              <Button className="w-full rounded-full font-medium" size="lg">
+              {/* <Button className="w-full rounded-full font-medium" size="lg">
                 View My Work
-              </Button>
+              </Button> */}
             </div>
           </div>
 
